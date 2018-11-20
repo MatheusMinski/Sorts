@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+//Faltou a leitura do vetor por ponteiros
 
 void ler_vetor_normal(int v[], int n){
     int i;
